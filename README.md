@@ -1,5 +1,6 @@
 ![header](imgs/header.jpg)
 
+#AI预测蛋白质结构，可以说是一场蛋白质结构技术革命，个人觉得很有前景，相信在不久的将来，两位作者可以获得诺贝尔生理或医学奖。
 # AlphaFold
 
 This package provides an implementation of the inference pipeline of AlphaFold
